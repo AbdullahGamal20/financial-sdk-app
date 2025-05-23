@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { AppProvider } from "./context/MainContext";
 import CostEntryForm from "./components/CostEntryForm";
 import InvoiceForm from "./components/InvoiceGenerator";
